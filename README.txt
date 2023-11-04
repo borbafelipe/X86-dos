@@ -1,4 +1,4 @@
-This program was proposed as an extra exercice during a college class.
+This program was proposed as an extra task during a college class.
 
 Keylock besides printing, create a buffer interruption disabling input on dos systems.
 The program.
